@@ -1,5 +1,4 @@
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==1.8.1+cpu
 torchvision==0.9.1+cpu
 appdirs==1.4.3
 astor==0.8.1
