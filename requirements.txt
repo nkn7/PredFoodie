@@ -2,11 +2,13 @@
 torch==1.8.1+cpu
 torchvision==0.9.1+cpu
 Flask==1.1.1
+grpcio==1.30.0
 gunicorn==20.0.4
 h5py==2.10.0
 tensorflow-cpu==2.3.1
 Keras-Applications==1.0.8
 Keras-Preprocessing==1.1.2
+matplotlib==3.3.0
 numpy==1.18.5
 opencv-python-headless==4.3.0.38
 pickleshare==0.7.5
